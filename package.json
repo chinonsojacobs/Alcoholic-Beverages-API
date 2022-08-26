@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "drinks-menu-guidelines",
+  "version": "1.0.0",
+  "description": "This project upon search showcases a cocktail and the simple and easy ingredients and measurement needed to make it",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines.git"
+  },
+  "author": "Chinonso Jesse Okoronkwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines/issues"
+  },
+  "homepage": "https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines#readme"
+}

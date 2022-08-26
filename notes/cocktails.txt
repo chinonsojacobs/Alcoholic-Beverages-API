@@ -1,0 +1,36 @@
+Cocktails           ----    Spirits                     ----    Measure     ----    Mixers
+Pornstar Martini    ----    Absolut Vodka Vanila        ----    50ml        ----    Funkin Passionfruit Mix
+
+Espresso Martini    ----    Ketel One Vodka,            ----    25ml        ----    
+                            Tia Maria                   ----    25ml
+
+Zombie              ----    Bacardi Spiced Rum,         ----    25ml        ----    Funkin Zombie Mix
+                            Bacardi Carta Blanca Rum    ----    25ml
+
+Sex on the Beach    ----    Archers Peach Schnapps,     ----    25ml        ----    Cranberry Juice, 
+                            Smirnoff Red Vodka          ----    25ml                Orange Juice
+
+Woo Woo             ----    Archers Peach Schnapps,     ----    25ml        ----    Cranberry Juice
+                            Smirnoff Red Vodka          ----    25ml                Lemonade
+
+Daquiri             ----    Bacardi Carta Blanca Rum    ----    50ml        ----    Lime Juice, Sugar Syrup
+
+Margarita           ----    Olmeca Blanco Tequila       ----    50ml        ----    Funkin Margarita Mix
+
+Long Island Ice tea ----    Smirnoff Red Vodka,         ----    10ml        ----    Pepsi or Coca Cola
+                            Gordon's Dry Gin,           ----    10ml
+                            Bacardi Carta Blanca Rum,   ----    10ml
+                            Olmeca Blanco Tequila,      ----    10ml
+                            Cointreau                   ----    10ml
+
+Aperol Spritz       ----    Aperol,                     ----    50ml        ----    Soda Water or Club Soda
+                            Prosecco                    ----    75ml
+
+Pina Colada         ----    Bacardi Coconut Rum         ----    50ml        ----    Funkin Pina Colada Mix
+
+Mojito              ----    Bacardi Carta Blanca Rum    ----    50ml        ----    Funkin Mojito Mix
+
+Purple Rain         ----    Cherry Sourz,               ----    25ml        ----    Lemonade
+                            DK Blue Curaçao             ----    25ml
+
+Dark and Stormy     ----    Goslings Black Seal Rum     ----    50ml        ----    Ginger Beer, Angostura Bitters
