@@ -16,9 +16,5 @@
     "url": "git+https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines.git"
   },
   "author": "Chinonso Jesse Okoronkwo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines/issues"
-  },
-  "homepage": "https://github.com/chinonsojacobs/DRMN-drinks-menu-list-and-guidelines#readme"
+  "license": "ISC"
 }
