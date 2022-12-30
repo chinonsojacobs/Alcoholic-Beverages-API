@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pornstar Martini",
+        "origin": "The Pornstar Martini was created by Douglas Ankrah of the famous Lab Bar in London, while he was formulating the menu for The Townhouse Bar in Knightsbridge in 2002. The cocktail was apparently inspired by a drink Ankrah tried at a “louche gentlemen's club” called Mavericks while visiting Cape Town in South Africa",
+        "description": "The porn star martini is a passion-fruit-flavoured cocktail made with vanilla-flavoured vodka, Passoã, passion fruit juice, and lime juice. It is traditionally accompanied by a chilled shot glass of prosecco",
+        "procedure": "Fill your cocktail shaker with ice, then add Vodka, and vanilla syrup. Now, add fresh lime, and passion fruit purée, followed by passion fruit juice. Then, secure the lid of your shaker and shake vigorously for approximately 30 seconds. Then take your Hawthorne strainer and strain it into a chilled cocktail glass. To garnish, carefully place a slice of fresh passion fruit on top, pour a shot of prosecco into a shot glass, emela",
+        "spirit_name": "Absolut Vanilla Vodka",
+        "mixer_name": ["Vanilla Syrup", "Fresh Lime", "Passion Fruit purée", "Passion Fruit juice"],
+        "garnish_name": "Passion Fruit"
+    },
+    {
+        "name": "Espresso Martini",
+        "origin": "According to London bartender Dick Bradsel in the early eighties, a famous model entered the Soho Brasserie where he was working, and asked him to create a drink that would “wake me up and fuck me up”. As there was a coffee machine next to where Dick was serving drinks, he decided to combine the coffee with vodka",
+        "description": "The Espresso Martini is a sumptuous mix of vodka, coffee liqueur, sugar syrup and espresso. It’s rich, indulgent and creamy and the shot of espresso will give you that boost of energy",
+        "procedure": "Fill a cocktail shaker with ice cubes. Add 50ml Vodka, 25ml shot of Espresso, 25ml Coffee Liqeur, and 12.5ml Sugar Syrup. Shake well to get the foam on top, and strain it into a cocktail or martini glass. Garnish by placing three coffee beans on top.",
+        "spirit_name": ["Ketel One Vodka", "Tia Maria"],
+        "mixer_name": ["Shot of Espresso", "Sugar Syrup"],
+        "garnish_name": "Coffee Beans"
+    },
+    {
+        "name": "Long Island Iced Tea",
+        "origin": "A bartender named Bob “Rosebud” Butt is usually credited with inventing the Long Island Iced Tea in 1972. As the story goes, Butt was working in a bar in Long Island, New York when a friendly competition compelled him to concoct the refreshing but strong iced-tea-colored beverage, hence the name.",
+        "description": "Known as one of the booziest and most iconic cocktails — coming in at a whopping 22 percent ABV — the Long Island Iced Tea combines five different spirits in a symphony of flavors. Equal amounts of vodka, rum tequila, gin, and triple sec are joined by lemon juice, and a splash of cola to create a unique beverage that belies its strength.",
+        "procedure": "Fill a cocktail shaker with ice. Add 15ml Vodka, Rum, Gin, Tequila, Cointreau. Hold aside the cola for now. Cover the cocktail shaker and give it a good shake to let all the spirits mix and chill. The Long Island Iced Tea is typically served in a Collins glass or a hurricane glass over a lot of fresh ice with a big splash of cola poured over the top, which creates that tea-like color. Add a slice of fresh lemon for garnish",
+        "spirit_name": ["Smirnoff Vodka", "Gordons Dry Gin", "Bacardi Carta Blanca Rum", "Olmeca Blanco Tequila", "Cointreau"],
+        "mixer_name": "Coca Cola",
+        "garnish_name": "Slice of Lemon"
+    }
+
+]
+
+

@@ -1,5 +1,6 @@
 const express = require('express')
 const dotenv = require('dotenv')
+const colors = require('colors')
 const DBconnection = require('./config/database')
 
 //loading environment variables
@@ -19,6 +20,15 @@ app.use('/', express.static('public'));
 
 const PORT = process.env.PORT || 3000;
 
-app.listen(3000, () => {
-    console.log(`Server listening on port ${PORT}`);
+const server = app.listen(3000, () => {
+    console.log(`Server listening on port ${PORT}`.blue.bold);
+});
+
+// Handle uncaught promise rejections
+process.on('uncaughtException', (err, promise) => {
+    console.log(`Error: ${err.message}`.red);
+    //Close server and exit process
+    server.close(() => {
+        process.exit(1);
+    });
 });

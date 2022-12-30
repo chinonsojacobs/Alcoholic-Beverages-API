@@ -43,3 +43,11 @@ Get a cocktail
 
 Private
 update
+
+//"name": "",
+//"origin": "",
+//"description": "",
+//"procedure": "",
+//"spirit_name": ["Ketel One Vodka", "Tia Maria"],
+//"mixer_name": ["Shot of Espresso", "Sugar Syrup"],
+//"garnish_name": "Coffee Beans"

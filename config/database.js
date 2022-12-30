@@ -6,7 +6,7 @@ const DBconnection = async() => {
         useUnifiedTopology: true
     })
 
-    console.log(`Database successfully connected to ${con.connection.host}`)
+    console.log(`Database successfully connected to ${con.connection.host}`.green.underline.bold)
 }
 
 module.exports = DBconnection;
