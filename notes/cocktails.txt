@@ -34,3 +34,12 @@ Purple Rain         ----    Cherry Sourz,               ----    25ml        ----
                             DK Blue Curaçao             ----    25ml
 
 Dark and Stormy     ----    Goslings Black Seal Rum     ----    50ml        ----    Ginger Beer, Angostura Bitters
+
+
+Public
+Search Cocktails
+Get all Cocktails
+Get a cocktail
+
+Private
+update
