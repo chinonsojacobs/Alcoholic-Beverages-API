@@ -1,4 +1,4 @@
 node_modules
 config/config.env
-notes
-route/private
+notes/cocktails.txt
+route/private/ct_private.js
