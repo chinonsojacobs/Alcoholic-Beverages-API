@@ -25,6 +25,24 @@
         "spirit_name": ["Smirnoff Vodka", "Gordons Dry Gin", "Bacardi Carta Blanca Rum", "Olmeca Blanco Tequila", "Cointreau"],
         "mixer_name": "Coca Cola",
         "garnish_name": "Slice of Lemon"
+    },
+    {
+        "name":"Margarita",
+        "origin": "One of the earliest stories is of the margarita being invented in 1938 by Carlos Danny Herrera at his restaurant Rancho La Gloria, halfway between Tijuana and Rosarito, Baja California, created for customer and former Ziegfeld dancer Marjorie King, who was allergic to many spirits, but not to tequila",
+        "description": "One of the world's most famous, and most-loved, cocktails, the margarita is sharp refreshing blend of tequila, orange liqueur and lime juice. It's often served in a salt-rimmed glass.",
+        "procedure": "First rub the rim of flared glasses with lime juice and then dip these into finely ground salt. Measure 50ml of your choice of tequila and equal parts 25ml of orange liqueur and lime juice. Shake the mix in ice and pour into the glasses without disturbing the rim; you can serve a margarita straight up or over crushed or cubed ice. A thin wedge or slice of lime is the classic garnish.",
+        "spirit_name": ["Batanga Tequila", "Triple Sec"],
+        "mixer_name": "Lime Juice",
+        "garnish_name": "Slice of Lime"
+    },
+    {
+        "name": "Daquiri",
+        "origin": "The drink was supposedly invented by an American mining engineer named Jennings Cox, who was in Cuba (then at the tail-end of the Spanish Captaincy-General government) at the time of the Spanish American War",
+        "description": "In its purest form, the Daiquiri is a delicate balance of rum, fresh lime juice, and sugar",
+        "procedure": "Measure 50ml of your choice of rum, 25ml lime juice and 10ml sugar syrup to a shaker with ice, and shake until well-chilled. Double strain through fine mesh strainer into a chilled coupe. Garnish with a lime twist.",
+        "spirit_name": "Havana 3 White Rum",
+        "mixer_name": "Lime Juice",
+        "garnish_name": "Lime Twist"
     }
 
 ]

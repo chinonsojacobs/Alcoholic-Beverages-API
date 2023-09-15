@@ -1,6 +1,7 @@
 const express = require('express')
 const dotenv = require('dotenv')
 const colors = require('colors')
+const errorHandler = require('./middleware/errorHandler')
 const DBconnection = require('./config/database')
 
 //loading environment variables
@@ -13,9 +14,12 @@ const cocktails = require('./route/private/ct_private')
 
 const app = express()
 
+app.use(express.json());
+
 //mount routes
 app.use('/api/v1/cocktails', cocktails);
 app.use('/', express.static('public'));
+app.use(errorHandler);
 
 
 const PORT = process.env.PORT || 3000;

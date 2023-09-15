@@ -4,46 +4,32 @@ const mongoose = require('mongoose');
 const CocktailSchema = new mongoose.Schema({
     name: {
         type: String,
-        isRequired: [true, 'Name of cocktail is required']
+        unique: true,
+        required: [true, 'Name of cocktail is required']
     },
     origin: {
         type: String,
-        isRequired: false,
+        required: false
     },
     description: {
         type: String,
-        isRequired: true,
+        required: [true, 'Description of cocktail is required']
     },
     procedure: {
         type: String,
-        isRequired: true,
+        required: [true, 'Cocktail procedure is required']
     },
     spirit_name: {
         type: [String],
-        isRequired: true
+        required: [true, 'Spirits used in cocktail is required']
     },
     mixer_name: {
         type: [String],
-        isRequired: true
+        required: false
     },
     garnish_name: {
         type: String,
-        isRequired: false
-    },
-    spiritID: {
-        type: [mongoose.Types.ObjectId],
-        isRequired: true,
-        unique: true
-    },
-    mixerID: {
-        type: [mongoose.Types.ObjectId],
-        isRequired: true,
-        unique: true
-    },
-    garnishID: {
-        type: mongoose.Types.ObjectId,
-        isRequired: true,
-        unique: true
+        required: false
     },
     photo: {
         type: String,
