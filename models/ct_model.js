@@ -28,7 +28,7 @@ const CocktailSchema = new mongoose.Schema({
         required: false
     },
     garnish_name: {
-        type: String,
+        type: [String],
         required: false
     },
     photo: {

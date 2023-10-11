@@ -43,6 +43,33 @@
         "spirit_name": "Havana 3 White Rum",
         "mixer_name": "Lime Juice",
         "garnish_name": "Lime Twist"
+    },
+    {
+        "name": "Whisky Sour",
+        "origin": "The oldest historical mention of a whiskey sour was published in the Wisconsin newspaper, Waukesha Plain Dealer, in 1870. In 1962, the Universidad del Cuyo published a story, citing the Peruvian newspaper El Comercio de Iquique, which indicated that Elliott Stubb created the whisky sour in Iquique in 1872.",
+        "description": "Spirit, citrus and sugar are the trinity that combine to form the classic sour, one of the oldest types of cocktails. One of the most popular members of this group, the Whiskey Sour is traditionally made with whiskey, lemon juice, sugar and egg white",
+        "procedure": "Add 50ml bourbon, 25ml lemon juice, 10ml sugar syrup and 20ml egg white to a shaker, and dry-shake for 30 seconds without ice. Add ice and shake again for 15–20 seconds, until well-chilled. Strain into a rocks glass over fresh ice. Garnish with 3–4 drops of Angostura bitters.",
+        "spirit_name": "Bulleit Bourbon",
+        "mixer_name": ["Lemon Juice", "Sugar Syrup"],
+        "garnish_name": ["Angostura Bitters", "Lemon Twist"]
+    },
+    {
+        "name": "Pisco Sour",
+        "origin": "In this version of this cocktail's birth, Victor Vaughen Morris, an American who moved to Peru for the mining trade in 1903, opened the Morris Bar and first made the drink as an alternative to the Whiskey Sour.",
+        "description": "Spirit, citrus and sugar are the trinity that combine to form the classic sour. This frothy sour is delicate, tangy, and refreshing. The Angostura bitters are added to the top fluffy layer of this drink as a garnish and for added aromatics",
+        "procedure": "Add 50ml pisco, 25ml lemon juice, 10ml sugar syrup and 20ml egg white to a shaker, and dry-shake for 30 seconds without ice. Add ice and shake again for 15–20 seconds, until well-chilled. Strain into a rocks glass over fresh ice. Garnish with 3–4 drops of Angostura bitters.",
+        "spirit_name": "ABA Pisco",
+        "mixer_name": ["Lemon Juice", "Sugar Syrup"],
+        "garnish_name": "Angostura Bitters"
+    },
+    {
+        "name": "Amaretto Sour",
+        "origin": "Following the recipe for the classic sour cocktail group, no-one knows for sure who came up with the first recipe for an Amaretto Sour. It was somewhere in the USA and sometime in the 1970s, when Italian liquors were starting to get better-known in America.",
+        "description": "Spirit, citrus and sugar are the trinity that combine to form the classic sour. The spirit used in the Amaretto sour as the name suggests is Amaretto. Amaretto is an Italian liqueur that is typically flavored with almonds or apricot stones",
+        "procedure": "Add 50ml amaretto, 25ml lemon juice, 10ml sugar syrup and 20ml egg white to a shaker, and dry-shake for 30 seconds without ice. Add ice and shake again for 15–20 seconds, until well-chilled. Strain into a rocks glass over fresh ice. Garnish with 3–4 drops of Angostura bitters.",
+        "spirit_name": "Tosolini Amaretto",
+        "mixer_name": ["Lemon Juice", "Sugar Syrup"],
+        "garnish_name": ["Angostura Bitters", "Lemon Twist", "single cherry pick"]
     }
 
 ]
