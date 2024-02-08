@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "Absolut Vodka Vanilla",
+        "manufacturer" : "Absolut Company AB (Pernod Ricard)",
+        "cocktail": "6511bb28b9e8abeca5c5bee8"
+    },
+    {
+        "name" : "Tosilini Amaretto",
+        "manufacturer" : "Bepi Tosolini",
+        "cocktail": "6511bb28b9e8abeca5c5beef"
+    },
+    {
+        "name" : "Ketel One Vodka",
+        "manufacturer" : "Nolet Distillery",
+        "cocktail": "6511bb28b9e8abeca5c5bee9"
+    },
+    {
+        "name" : "Tia Maria",
+        "manufacturer" : "Illva Saronno",
+        "cocktail": "6511bb28b9e8abeca5c5bee9"
+    },
+    {
+        "name" : "ABA Pisco",
+        "manufacturer" : "ABA Distillery",
+        "cocktail": "6511bb28b9e8abeca5c5beee"
+    },
+    {
+        "name" : "Bulleit Bourbon",
+        "manufacturer" : "Bulleit Distillery (Diageo)",
+        "cocktail": "6511bb28b9e8abeca5c5beed"
+    },
+    {
+        "name" : "Smirnoff Vodka",
+        "manufacturer" : "Diageo",
+        "cocktail": "6511bb28b9e8abeca5c5beea"
+    },
+    {
+        "name" : "Gordons Dry Gin",
+        "manufacturer" : "Diageo",
+        "cocktail": "6511bb28b9e8abeca5c5beea"
+    },
+    {
+        "name" : "Bacardi Carta Blanca Rum",
+        "manufacturer" : "Bacardi Limited",
+        "cocktail": "6511bb28b9e8abeca5c5beea"
+    },
+    {
+        "name" : "Olmeca Blanco Tequila",
+        "manufacturer" : "Pernod Ricard",
+        "cocktail": "6511bb28b9e8abeca5c5beea"
+    },
+    {
+        "name" : "Cointreau",
+        "manufacturer" : "Rémy Cointreau",
+        "cocktail": "6511bb28b9e8abeca5c5beea"
+    },
+    {
+        "name" : "Batanga Tequila",
+        "manufacturer" : "Casa Orendain Family Estate",
+        "cocktail": "6511bb28b9e8abeca5c5beeb"
+    },
+    {
+        "name" : "Triple Sec",
+        "manufacturer" : "Maison Briottet (One of many triple sec manufacturers)",
+        "cocktail": "6511bb28b9e8abeca5c5beeb"
+    },
+    {
+        "name" : "Havana 3 White Rum",
+        "manufacturer" : "Pernod Ricard",
+        "cocktail": "6511bb28b9e8abeca5c5beec"
+    }
+]
