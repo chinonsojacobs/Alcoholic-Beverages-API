@@ -12,6 +12,7 @@ DBconnection();
 //route files
 const cocktails = require('./route/private/ct_private')
 const spirits = require('./route/public/sp_public')
+const auth = require('./route/auth')
 
 const app = express()
 
@@ -20,6 +21,7 @@ app.use(express.json());
 //mount routes
 app.use('/api/v1/cocktails', cocktails);
 app.use('/api/v1/spirits', spirits);
+app.use('/api/v1/auth', auth);
 app.use('/', express.static('public'));
 app.use(errorHandler);
 
